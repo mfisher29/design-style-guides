@@ -18,3 +18,4 @@ This repository holds a style guide template which can be used and altered for a
 ### Development
 
 1. `npm start` starts the app and connects to a local environment
+1. Navigate to your local host (likely http://localhost:8080/)
